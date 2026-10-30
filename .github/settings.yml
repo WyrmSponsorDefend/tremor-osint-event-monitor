@@ -1,0 +1,4 @@
+repository:
+  homepage: https://awesomeosint.tools/tremor/
+  description: "OSINT monitor of world events from open sources."
+  topics: osint, event-monitoring, real-time, news, geoint, alerts
